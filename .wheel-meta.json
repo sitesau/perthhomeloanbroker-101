@@ -1,0 +1,22 @@
+{
+  "wheel_id": 49,
+  "slug": "perthhomeloanbroker-101",
+  "project": "construction-loans-perth-comparison-perthhomeloanbroker-101",
+  "parent_t1_ref": "perthhomeloanbroker-002",
+  "node_role": "feeder",
+  "money_target": "perthhomeloanbroker.com.au",
+  "primary_kw": "construction loans perth comparison",
+  "intended_url": "https://construction-loans-perth-comparison-perthhomeloanbroker-101.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://construction-loans-perth-perthhomeloanbroker-150.vercel.app/",
+      "anchor": "construction loans perth",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://construction-loans-perth-perthhomeloanbroker-150.vercel.app/",
+      "anchor": "construction loans perth",
+      "rel": "follow"
+    }
+  ]
+}
