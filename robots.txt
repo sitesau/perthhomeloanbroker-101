@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://construction-loans-perth-comparison-perthhomeloanbroker-101.pages.dev/sitemap.xml
+Sitemap: https://construction-loans-perth-comparison-p-101.surge.sh/sitemap.xml
